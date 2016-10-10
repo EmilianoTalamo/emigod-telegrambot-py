@@ -1,6 +1,6 @@
 :loop
 
-cd C:\Users\Emi\Desktop\Emigodpy real
+cd DIRECTORY
 python emigod.py
 
 goto loop

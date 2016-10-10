@@ -1,4 +1,4 @@
-cd "/home/emi/Documents/Emigodpy real"
+cd "DIRECTORY"
 while :
 	do
 		python3 emigod.py
